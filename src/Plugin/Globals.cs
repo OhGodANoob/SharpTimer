@@ -181,7 +181,7 @@ namespace SharpTimer
         public string? remoteBhopDataSource = "https://raw.githubusercontent.com/deafps/SharpTimer/main/remote_data/bhop_.json";
         public string? remoteKZDataSource = "https://raw.githubusercontent.com/deafps/SharpTimer/main/remote_data/kz_.json";
         public string? remoteSurfDataSource = "https://raw.githubusercontent.com/deafps/SharpTimer/main/remote_data/surf_.json";
-        public string? testerPersonalGifsSource = "https://raw.githubusercontent.com/deafps/SharpTimer/main/remote_data/tester_bling.json";
+        public string? testerPersonalGifsSource = "https://raw.githubusercontent.com/OhGodANoob/SharpTimer/DontLookHere/remote_data/tester_bling.json";
 
         public static string god3Icon = "<img src='https://raw.githubusercontent.com/deafps/SharpTimer/main/remote_data/rank_icons/god.gif' class=''>";
         public static string god2Icon = "<img src='https://raw.githubusercontent.com/deafps/SharpTimer/main/remote_data/rank_icons/god.gif' class=''>";
